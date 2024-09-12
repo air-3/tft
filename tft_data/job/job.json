@@ -1,0 +1,214 @@
+{
+    "version": "14.18",
+    "season": "2024.S12",
+    "modeId": "1",
+    "time": "2024-09-11 23:56:33",
+    "data": [
+        {
+            "jobId": "10103",
+            "name": "堡垒卫士",
+            "traitId": "10103",
+            "introduce": "己方弈子们获得10护甲和魔抗。\r\n【堡垒卫士】们获得更多，并且这个数值在战斗的最初10秒翻倍。",
+            "alias": "10103.png",
+            "level": {
+                "2": "15护甲和魔抗",
+                "4": "40护甲和魔抗",
+                "6": "75护甲和魔抗",
+                "8": "140护甲和魔抗，并且2个初始位置在后2排的弈子会免疫伤害，直至有4个【堡垒卫士】阵亡。"
+            },
+            "TFTID": "10103",
+            "characterid": "TFT12_Bastion",
+            "id": "2122",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10103.png",
+            "job_color_list": "2:1,4:2,6:3,8:3"
+        },
+        {
+            "jobId": "10104",
+            "name": "强袭枪手",
+            "traitId": "10104",
+            "introduce": "【强袭枪手】们获得伤害增幅，这个效果会在【强袭枪手】们施放其技能后获得持续3秒的提升。",
+            "alias": "10104.png",
+            "level": {
+                "2": "15%伤害增幅；在爆发期间为30%",
+                "4": "35%伤害增幅；在爆发期间为60%",
+                "6": "60%伤害增幅；在爆发期间为100%"
+            },
+            "TFTID": "10104",
+            "characterid": "TFT12_Blaster",
+            "id": "2123",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10104.png",
+            "job_color_list": "2:1,4:2,6:3"
+        },
+        {
+            "jobId": "10106",
+            "name": "猎手",
+            "traitId": "10106",
+            "introduce": "【猎手】们获得攻击力，这个加成会在其每次战斗中首次参与击杀后提升。",
+            "alias": "10106.png",
+            "level": {
+                "2": "15%攻击力，参与击杀后30%",
+                "4": "40%攻击力，参与击杀后70%",
+                "6": "获得20%攻速；70%攻击力，参与击杀后110%"
+            },
+            "TFTID": "10106",
+            "characterid": "TFT12_Hunter",
+            "id": "2124",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10106.png",
+            "job_color_list": "2:1,4:2,6:3"
+        },
+        {
+            "jobId": "10107",
+            "name": "术师",
+            "traitId": "10107",
+            "introduce": "己方弈子们获得10法术强度。\r\n【术师】们在进行攻击或施放技能时，获得可叠加的，最多可达40层。每隔一次普攻可获得1层，并且每次施放技能可获得3层。",
+            "alias": "10107.png",
+            "level": {
+                "2": "1【法强】每层",
+                "4": "2【法强】每层；己方弈子们获得30【法强】"
+            },
+            "TFTID": "10107",
+            "characterid": "TFT12_Incantor",
+            "id": "2125",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10107.png",
+            "job_color_list": "2:1,4:3"
+        },
+        {
+            "jobId": "10108",
+            "name": "法师",
+            "traitId": "10108",
+            "introduce": "【法师】们可以双重施法并修正总法术强度。",
+            "alias": "10108.png",
+            "level": {
+                "3": "75%法术强度修正",
+                "5": "90%法术强度修正",
+                "7": "110%法术强度修正",
+                "10": "140%法术强度修正，法师施法频率显著提升（最大法力值降低）"
+            },
+            "TFTID": "10108",
+            "characterid": "TFT12_Mage",
+            "id": "2126",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10108.png",
+            "job_color_list": "3:1,5:2,7:2,10:4"
+        },
+        {
+            "jobId": "10109",
+            "name": "魔战士",
+            "traitId": "10109",
+            "introduce": "【魔战士】们的攻击有一定几率触发2次额外攻击",
+            "alias": "10109.png",
+            "level": {
+                "3": "30%几率",
+                "5": "60%几率",
+                "7": "70%几率；每次攻击治疗3%最大生命值",
+                "9": "100%几率；每次攻击治疗10%最大生命值"
+            },
+            "TFTID": "10109",
+            "characterid": "TFT12_Multistriker",
+            "id": "2127",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10109.png",
+            "job_color_list": "3:1,5:2,7:3,9:3"
+        },
+        {
+            "jobId": "10110",
+            "name": "复苏者",
+            "traitId": "10110",
+            "introduce": "你的弈子们每3秒治疗自身一部分最大生命值。如果弈子的生命值已满，则转而回复法力值。\r\n【复苏者】们获得双倍此效果。",
+            "alias": "10110.png",
+            "level": {
+                "2": "2%生命值或3%法力值",
+                "3": "4%生命值或5%法力值",
+                "4": "6%生命值或7%法力值",
+                "5": "9%生命值或11%法力值"
+            },
+            "TFTID": "10110",
+            "characterid": "TFT12_Preserver",
+            "id": "2128",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10110.png",
+            "job_color_list": "2:1,3:2,4:2,5:3"
+        },
+        {
+            "jobId": "10111",
+            "name": "学者",
+            "traitId": "10111",
+            "introduce": "【学者】们获得法术强度并且在攻击时获得额外法力值。",
+            "alias": "10111.png",
+            "level": {
+                "2": "获得10法术强度，并且每次攻击获得3法力",
+                "4": "获得15法术强度，并且每次攻击获得5法力",
+                "6": "获得20法术强度，每次攻击获得10法力，并且技能治疗一名友军，治疗效果为造成伤害的15%"
+            },
+            "TFTID": "10111",
+            "characterid": "TFT12_Scholar",
+            "id": "2129",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10111.png",
+            "job_color_list": "2:1,4:2,6:3"
+        },
+        {
+            "jobId": "10112",
+            "name": "换形师",
+            "traitId": "10112",
+            "introduce": "【换形师】们获得额外最大生命值。首次施放其技能后，他们获得三倍此加成。",
+            "alias": "10112.png",
+            "level": {
+                "2": "10%最大生命值",
+                "4": "16%最大生命值",
+                "6": "24%最大生命值",
+                "8": "30%最大生命值，每2秒提供3%生命值回复"
+            },
+            "TFTID": "10112",
+            "characterid": "TFT12_Shapeshifter",
+            "id": "2130",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10112.png",
+            "job_color_list": "2:1,4:2,6:3,8:4"
+        },
+        {
+            "jobId": "10113",
+            "name": "重装战士",
+            "traitId": "10113",
+            "introduce": "【重装战士】们在有护盾时获得10%伤害减免。\r\n战斗开始时和50%生命值时：获得一部分最大生命值的护盾值，持续10秒。",
+            "alias": "10113.png",
+            "level": {
+                "2": "18%最大生命值",
+                "4": "35%最大生命值",
+                "6": "50%最大生命值"
+            },
+            "TFTID": "10113",
+            "characterid": "TFT12_Vanguard",
+            "id": "2131",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10113.png",
+            "job_color_list": "2:1,4:2,6:2"
+        },
+        {
+            "jobId": "10114",
+            "name": "狂暴战士",
+            "traitId": "10114",
+            "introduce": "【狂暴战士】们获得全能吸血和伤害增幅。当【狂暴战士】跌下60%生命值时，获得双倍。",
+            "alias": "10114.png",
+            "level": {
+                "2": "10%全能吸血，10%额外伤害",
+                "4": "18%全能吸血，18%额外伤害",
+                "6": "30%全能吸血，30%额外伤害，20%伤害减免"
+            },
+            "TFTID": "10114",
+            "characterid": "TFT12_Warrior",
+            "id": "2132",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10114.png",
+            "job_color_list": "2:1,4:2,6:3"
+        },
+        {
+            "jobId": "10115",
+            "name": "召唤物",
+            "traitId": "10115",
+            "introduce": "羁绊召唤物",
+            "alias": "10115.png",
+            "level": {
+                "1": "羁绊召唤物"
+            },
+            "TFTID": "10115",
+            "characterid": "",
+            "id": "2133",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/10115.png",
+            "job_color_list": "1:1"
+        }
+    ]
+}

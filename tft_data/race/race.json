@@ -1,0 +1,276 @@
+{
+    "version": "14.18",
+    "season": "2024.S12",
+    "modeId": "1",
+    "time": "2024-09-11 23:56:32",
+    "data": [
+        {
+            "raceId": "10087",
+            "name": "命运之子",
+            "traitId": "10087",
+            "introduce": "使用【命运之子标记器】道具来选择一位【高阶命运之子】弈子。每个【命运之子】都会基于不同条件来提供强度。获得强度的条件：阿狸：登场3星弈子。赫卡里姆：携带装备。塔姆：激活羁绊。泽拉斯：购买【随机法杖】。纹章：携带【金铲铲】系列装备。",
+            "alias": "10087.png",
+            "level": {
+                "2": "10法强+5x3星弈子数量",
+                "3": "15法强+8x3星弈子数量",
+                "4": "20法强+12x3星弈子数量",
+                "5": "25法强+18x3星弈子数量"
+            },
+            "TFTID": "10087",
+            "characterid": "TFT12_Arcana",
+            "id": "2042",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10087.png",
+            "race_color_list": "2:1,3:2,4:3,5:4"
+        },
+        {
+            "raceId": "10088",
+            "name": "飞升者",
+            "traitId": "10088",
+            "introduce": "【飞升者】的【随机法杖】能够出现在你的商店中。出现几率会在玩家对战后提升8%，至多至40%。在你购买一个【随机法杖】时，这个几率会重置。",
+            "alias": "10088.png",
+            "level": {
+                "1": "【飞升者】的【随机法杖】能够出现在你的商店中。出现几率会在玩家对战后提升8%，至多至40%。在你购买一个【随机法杖】时，这个几率会重置。"
+            },
+            "TFTID": "10088",
+            "characterid": "TFT12_Ascendant",
+            "id": "2043",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10088.png",
+            "race_color_list": "1:5"
+        },
+        {
+            "raceId": "10089",
+            "name": "蝙蝠女王",
+            "traitId": "10089",
+            "introduce": "当【莫甘娜】的蝙蝠击杀了一个敌人时，有40%几率挟持该弈子的一个1星版本。",
+            "alias": "10089.png",
+            "level": {
+                "1": "当【莫甘娜】的蝙蝠击杀了一个敌人时，有40%几率挟持该弈子的一个1星版本。"
+            },
+            "TFTID": "10089",
+            "characterid": "TFT12_BatQueen",
+            "id": "2044",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10089.png",
+            "race_color_list": "1:5"
+        },
+        {
+            "raceId": "10090",
+            "name": "龙族",
+            "traitId": "10090",
+            "introduce": "【龙族】的普攻和技能可对目标造成1%灼烧和重伤效果，持续5秒。",
+            "alias": "10090.png",
+            "level": {
+                "2": "龙棋子的攻击和技能会造成1%的灼伤效果和持续5秒的重伤。",
+                "3": "所有龙棋子的技能获得升级"
+            },
+            "TFTID": "10090",
+            "characterid": "TFT12_Dragon",
+            "id": "2045",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10090.png",
+            "race_color_list": "2:2,3:3"
+        },
+        {
+            "raceId": "10091",
+            "name": "德鲁伊",
+            "traitId": "10091",
+            "introduce": "【孙悟空】没有羁绊加成，但作为替代，会拥有一个强大的技能和提升过的各项属性。",
+            "alias": "10091.png",
+            "level": {
+                "1": "德鲁伊单位不会有额外的羁绊，但会获得更强大的技能和基础属性。"
+            },
+            "TFTID": "10091",
+            "characterid": "TFT12_Druid",
+            "id": "2046",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10091.png",
+            "race_color_list": "1:5"
+        },
+        {
+            "raceId": "10092",
+            "name": "魔神使者",
+            "traitId": "10092",
+            "introduce": "队伍损失20%总生命值时，一位【古神】将会觉醒。【魔神使者】们的每个星级都会使它获得25%生命值和12%法术强度",
+            "alias": "10092.png",
+            "level": {
+                "3": "腐蚀魔像",
+                "5": "黑暗独石",
+                "7": "千眼怪兽",
+                "10": "风暴使者"
+            },
+            "TFTID": "10092",
+            "characterid": "TFT12_Eldritch",
+            "id": "2047",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10092.png",
+            "race_color_list": "3:1,5:2,7:3,10:4"
+        },
+        {
+            "raceId": "10093",
+            "name": "最佳好友",
+            "traitId": "10093",
+            "introduce": "【诺拉】召唤【悠米】来帮助你的队伍！可以通过拖拽【悠米】来将她附身到友军身上。【悠米】与【诺拉】共享她的法术强度并且会在【诺拉】阵亡时一起阵亡。",
+            "alias": "10093.png",
+            "level": {
+                "1": "【诺拉】召唤【悠米】来帮助你的队伍！可以通过拖拽【悠米】来将她附身到友军身上。【悠米】与【诺拉】共享她的法术强度并且会在【诺拉】阵亡时一起阵亡。"
+            },
+            "TFTID": "10093",
+            "characterid": "TFT12_Explorer",
+            "id": "2048",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10093.png",
+            "race_color_list": "1:5"
+        },
+        {
+            "raceId": "10094",
+            "name": "花仙子",
+            "traitId": "10094",
+            "introduce": "【花仙子】们获得生命值并创造特殊装备，装备强度随羁绊的层级增加。",
+            "alias": "10094.png",
+            "level": {
+                "3": "200最大生命值，获得【花仙王冕】，可提供30%伤害加成",
+                "5": "400最大生命值，获得【花仙王冕】，可提供45%伤害加成，获得【女王卫士之铠】",
+                "7": "600最大生命值，获得第二顶【花仙王冕】，可提供55%伤害加成",
+                "9": "900最大生命值，花仙子装备变为光明装备"
+            },
+            "TFTID": "10094",
+            "characterid": "TFT12_Faerie",
+            "id": "2049",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10094.png",
+            "race_color_list": "3:1,5:2,7:3,9:3"
+        },
+        {
+            "raceId": "10095",
+            "name": "冰霜",
+            "traitId": "10095",
+            "introduce": "【冰霜】弈子们获得法术强度和攻击力。首先阵亡的若干敌方弈子会变为己方的冰雕士兵，引诱距离内的敌人对其攻击和重选目标。",
+            "alias": "10095.png",
+            "level": {
+                "3": "16法强及攻击力，1个士兵",
+                "5": "35法强及攻击力，2个士兵",
+                "7": "50法强及攻击力，3个士兵，士兵会在阵亡时爆炸",
+                "9": "80法强及攻击力，4个士兵，爆炸强度翻倍"
+            },
+            "TFTID": "10095",
+            "characterid": "TFT12_Frost",
+            "id": "2050",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10095.png",
+            "race_color_list": "3:1,5:2,7:3,9:3"
+        },
+        {
+            "raceId": "10096",
+            "name": "小蜜蜂",
+            "traitId": "10096",
+            "introduce": "【小蜜蜂】们都配备了5个兵蜂，每3秒对他们的目标造成魔法伤害。每个兵蜂造成【小蜜蜂】7%的已造成伤害和【小蜜蜂】3%的已承受伤害。\r\n当一个【小蜜蜂】阵亡时，留下2个兵蜂来跟随附近的【小蜜蜂】，持续到战斗结束。",
+            "alias": "10096.png",
+            "level": {
+                "3": "6%已造成伤害和3%已承受伤害",
+                "5": "8%已造成伤害和4%已承受伤害",
+                "7": "15%已造成伤害和10%已承受伤害，并且以两倍速度开火"
+            },
+            "TFTID": "10096",
+            "characterid": "TFT12_Honeymancy",
+            "id": "2051",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10096.png",
+            "race_color_list": "3:1,5:2,7:3"
+        },
+        {
+            "raceId": "10097",
+            "name": "次元术士",
+            "traitId": "10097",
+            "introduce": "战斗开始时：【次元术士】们获得持续15秒的护盾值。\r\n每隔若干秒，一道次元门中就会飞出来自其它异次元的物件，来帮助己方并扰乱敌方。【次元术士】们的每个星级都会让次元门变强8%。",
+            "alias": "10097.png",
+            "level": {
+                "3": "200护盾值，小型次元门",
+                "6": "450护盾值，中型次元门",
+                "8": "700 护盾值，大型次元门",
+                "10": "1500护盾值，巨型次元门"
+            },
+            "TFTID": "10097",
+            "characterid": "TFT12_Portal",
+            "id": "2052",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10097.png",
+            "race_color_list": "3:1,6:2,8:3,10:4"
+        },
+        {
+            "raceId": "10098",
+            "name": "炎魔",
+            "traitId": "10098",
+            "introduce": "你的弈子们获得3%攻击速度。【炎魔】弈子们获得额外的并且处决低于10%生命值的敌人。\r\n每次击杀，【炎魔】弈子们都会生成一个炼狱熔渣供你在下个回合收集。你每收集5个熔渣，你的弈子们就会获得额外的2%。",
+            "alias": "10098.png",
+            "level": {
+                "2": "10%攻速",
+                "3": "25%攻速",
+                "4": "40%攻速",
+                "5": "55%并且处决低于15%生命值的敌人"
+            },
+            "TFTID": "10098",
+            "characterid": "TFT12_Pyro",
+            "id": "2053",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10098.png",
+            "race_color_list": "2:1,3:2,4:3,5:4"
+        },
+        {
+            "raceId": "10099",
+            "name": "狂厄蔷薇",
+            "traitId": "10099",
+            "introduce": "你每损失1玩家生命值，【贝蕾亚】就会获得0.6%伤害增幅。每个回合，获得一份轻食点心，来给她150生命值，代价是你的3玩家生命值。",
+            "alias": "10099.png",
+            "level": {
+                "1": "你每损失1玩家生命值，【贝蕾亚】就会获得0.8%伤害增幅。每个回合，获得一份轻食点心，来给她180生命值，代价是你的3玩家生命值。"
+            },
+            "TFTID": "10099",
+            "characterid": "TFT12_Ravenous",
+            "id": "2054",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10099.png",
+            "race_color_list": "1:5"
+        },
+        {
+            "raceId": "10101",
+            "name": "咖啡甜心",
+            "traitId": "10101",
+            "introduce": "【咖啡甜心】们开始用糖分制作一个千层蛋糕。己方弈子们每携带一个基础装备，就会在玩家对战回合后获得一份糖分。\r\n【咖啡甜心】们获得攻击力和法术强度，每层蛋糕都会使这个加成提升10%。在达到7层蛋糕后，转而获得小点心！",
+            "alias": "10101.png",
+            "level": {
+                "2": "2糖分，20攻击力和法术强度",
+                "4": "4份糖分，30攻击力和法术强度",
+                "6": "6份糖分，35攻击力和法术强度，团队获得50生命值"
+            },
+            "TFTID": "10101",
+            "characterid": "TFT12_Sugarcraft",
+            "id": "2055",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10101.png",
+            "race_color_list": "2:1,4:2,6:3"
+        },
+        {
+            "raceId": "10102",
+            "name": "诅咒女巫",
+            "traitId": "10102",
+            "introduce": "【诅咒女巫】们的技能会对敌人们施加持续4秒的诅咒。当一个被诅咒的敌人阵亡时，这个诅咒会散播至相距最近的那个敌人。\r\n被诅咒的敌人们会：",
+            "alias": "10102.png",
+            "level": {
+                "2": "变得更小，失去150生命值",
+                "4": "以及：对敌人施加中毒，每秒造成其最大生命值4%的魔法伤害",
+                "6": "以及：变脆，受到来自【诅咒女巫】的25%额外真实伤害",
+                "8": "以及：变成青蛙，每8秒被晕眩2秒；所有其它诅咒效果提升50%"
+            },
+            "TFTID": "10102",
+            "characterid": "TFT12_Witchcraft",
+            "id": "2056",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10102.png",
+            "race_color_list": "2:1,4:2,6:3,8:3"
+        },
+        {
+            "raceId": "10105",
+            "name": "时间学派",
+            "traitId": "10105",
+            "introduce": "【时间学派】弈子们获得15法术强度。\r\n战斗开始时：开始一个为期14秒的倒计时，每施放一个【时间学派】的技能就会使这个倒计时加快1秒。在倒计时开始时，获得一个特殊效果：",
+            "alias": "10105.png",
+            "level": {
+                "2": "己方弈子回复20%生命值；【时间学派】弈子们获得额外的20法强",
+                "4": "以及：冻结时间3秒，【时间学派】弈子们可以继续战斗并获得45法强",
+                "6": "以及：冻结时间4秒，【时间学派】弈子们获得40%攻速、80法强并且己方弈子们回复100%生命值作为替代"
+            },
+            "TFTID": "10105",
+            "characterid": "TFT12_Chrono",
+            "id": "2057",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/origins/10105.png",
+            "race_color_list": "2:1,4:2,6:3"
+        }
+    ]
+}
